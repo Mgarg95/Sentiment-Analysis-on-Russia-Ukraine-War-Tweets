@@ -1,6 +1,6 @@
 
 # Russia-Ukraine War Sentiment Analysis on Tweets
-On 23rd February, Russia announced special military operation on Ukraine. This geopolitical incident has been put under the limelight. As people gather on social media to express their opinion on the incident, it will be insightful to analyse their sentiment in an attempt to understand the public opinion.
+On 23rd February, Russia announced special military operation on Ukraine.  As people gather on social media to express their opinion on the incident, it will be insightful to analyse their sentiment as different people throughout the world have different opinions. This analysis finds out the positive,negative and neutral sentiments about the war for all tweets in English till 12/2022.
 
 
 ```python
