@@ -89,7 +89,7 @@ def search_by_hashtag(api, date_until, words, max):
 ```python
 api = auth()
 words = 'Ukraine Russia -filter:retweets'
-date_until = '2022-02-25'
+date_until = '2022-12-25'
 df = search_by_hashtag(api, date_until, words, 100000)
 ```
 
